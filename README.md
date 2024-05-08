@@ -30,10 +30,11 @@ The project aims to create a portable air quality monitoring system that can be 
 8.	Jumper Wires (as needed) [Female(10),Male(10), Male-Female(10)]
 9.	1x 10K-Ohm Potentiometer 
 
-Software: 
+    Software: 
 
 1. Arduino IDE (Integrated Development Environment) 
 2. Cloud platform account (ThingSpeak, Adafruit IO, Blynk)
+
 
 5. Problem Statement
    
