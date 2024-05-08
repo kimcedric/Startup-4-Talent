@@ -33,7 +33,23 @@ The project aims to create a portable air quality monitoring system that can be 
 Software: 
 
 1. Arduino IDE (Integrated Development Environment) 
-2. Cloud platform account (ThingSpeak, Adafruit IO, Blynk) 
+2. Cloud platform account (ThingSpeak, Adafruit IO, Blynk)
+
+5. Problem Statement
+   
+Rwanda faces a growing challenge with air pollution, particularly in urban areas. While some efforts are underway, such as the national tree planting initiative and a ban on single-use plastics, a lack of widespread air quality monitoring hinders effective pollution control strategies and public health awareness.
+
+This project proposes an Internet of Things (IoT) system for real-time air quality monitoring that can be deployed in various locations across Rwanda. This will address the following key issues:
+
+1. Limited Data: Existing air quality monitoring in Rwanda is limited, making it difficult to assess the full scope of the problem and identify areas with the most significant pollution levels.
+2. Public Awareness: Lack of real-time air quality data makes it difficult for citizens to understand air quality variations and take steps to protect their health, especially for vulnerable populations like children and the elderly.
+3. Targeted Interventions: Without detailed air quality data, it's challenging to pinpoint the sources of pollution and develop targeted interventions for mitigation.
+
+This project's portable and cost-effective IoT system can address these problems by providing:
+
+1.  Dense Monitoring Network: The ability to deploy the system in various locations will create a denser air quality monitoring network, offering a more comprehensive picture of Rwanda's air pollution.
+2.  Real-time Data: The system will provide real-time data on key pollutants, allowing citizens to make informed decisions about their health and activities.
+3.  Data-driven Solutions: The collected data can be used to identify pollution hotspots and inform the development of targeted policies and interventions to improve air quality in Rwanda.
 
 5.  Project Timeline 
 Day 1:
