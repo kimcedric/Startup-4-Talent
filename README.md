@@ -1,6 +1,6 @@
 # Startup-4-Talent
 
-Project Proposal: IoT System for Air Pollution Monitoring 
+Project: IoT System for Air Pollution Monitoring 
 
 1.	Introduction 
 
